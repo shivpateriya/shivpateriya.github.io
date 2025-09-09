@@ -1,4 +1,4 @@
-// Premium DevOps Portfolio JavaScript
+#// Premium DevOps Portfolio JavaScript
 document.addEventListener('DOMContentLoaded', function() {
     // Clear any cached session data for fresh experience
     sessionStorage.clear();
