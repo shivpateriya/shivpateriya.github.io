@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://shivpateriya.github.io/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
+# Disallow certain paths if needed (currently allowing all)
+# Disallow: /private/
+# Disallow: /temp/
+
+# Allow specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
